@@ -89,7 +89,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
             {children}
             <AdsterraSocialBar />
             <Script
-              src=https://pl30566416.effectivecpmnetwork.com/c1/97/f9/c197f9256a47bac69259f91305d9e4a4.js
+              src="https://pl30566416.effectivecpmnetwork.com/c1/97/f9/c197f9256a47bac69259f91305d9e4a4.js"
               strategy="afterInteractive"
             />
           </AppProvider>
